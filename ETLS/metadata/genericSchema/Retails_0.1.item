@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_CfmUcM0pEfCz6_uTCw0JvQ" dataPackage="_CfmUcc0pEfCz6_uTCw0JvQ"/>
+  <TalendMetadata:GenericPackage xmi:id="_CfmUcc0pEfCz6_uTCw0JvQ" dataManager="_CfmUcM0pEfCz6_uTCw0JvQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_CfmUcs0pEfCz6_uTCw0JvQ" id="_CfltYM0pEfCz6_uTCw0JvQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CfmUc80pEfCz6_uTCw0JvQ" name="InvoiceNo" label="InvoiceNo" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_CfmUdM0pEfCz6_uTCw0JvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CfmUdc0pEfCz6_uTCw0JvQ" name="StockCode" label="StockCode" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_CfmUds0pEfCz6_uTCw0JvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CfmUd80pEfCz6_uTCw0JvQ" name="Description" label="Description" length="100" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_CfmUeM0pEfCz6_uTCw0JvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CfmUec0pEfCz6_uTCw0JvQ" name="Quantity" label="Quantity" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_CfmUes0pEfCz6_uTCw0JvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CfmUe80pEfCz6_uTCw0JvQ" name="InvoiceDate" label="InvoiceDate" length="100" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_CfmUfM0pEfCz6_uTCw0JvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CfmUfc0pEfCz6_uTCw0JvQ" name="UnitPrice" label="UnitPrice" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_CfmUfs0pEfCz6_uTCw0JvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CfmUf80pEfCz6_uTCw0JvQ" name="CustomerID" label="CustomerID" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_CfmUgM0pEfCz6_uTCw0JvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CfmUgc0pEfCz6_uTCw0JvQ" name="Country" label="Country" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_CfmUgs0pEfCz6_uTCw0JvQ"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
